@@ -1,0 +1,1 @@
+#Menu de uma cafeteria.
